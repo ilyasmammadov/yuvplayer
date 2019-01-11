@@ -1,0 +1,10 @@
+C:\Users\kaank\Source\Repos\YuvCozucu\YuvCozucu\bin\Debug\YuvCozucu.exe.config
+C:\Users\kaank\Source\Repos\YuvCozucu\YuvCozucu\bin\Debug\YuvCozucu.exe
+C:\Users\kaank\Source\Repos\YuvCozucu\YuvCozucu\bin\Debug\YuvCozucu.pdb
+C:\Users\kaank\Source\Repos\YuvCozucu\YuvCozucu\obj\Debug\YuvCozucu.csprojAssemblyReference.cache
+C:\Users\kaank\Source\Repos\YuvCozucu\YuvCozucu\obj\Debug\YuvCozucu.Form1.resources
+C:\Users\kaank\Source\Repos\YuvCozucu\YuvCozucu\obj\Debug\YuvCozucu.Properties.Resources.resources
+C:\Users\kaank\Source\Repos\YuvCozucu\YuvCozucu\obj\Debug\YuvCozucu.csproj.GenerateResource.cache
+C:\Users\kaank\Source\Repos\YuvCozucu\YuvCozucu\obj\Debug\YuvCozucu.csproj.CoreCompileInputs.cache
+C:\Users\kaank\Source\Repos\YuvCozucu\YuvCozucu\obj\Debug\YuvCozucu.exe
+C:\Users\kaank\Source\Repos\YuvCozucu\YuvCozucu\obj\Debug\YuvCozucu.pdb
